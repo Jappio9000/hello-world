@@ -1,2 +1,5 @@
 # hello-world
-First repository from Github tutorial
+
+Hello there!
+
+This is just a bit of nonsense to test the Github branch functionality. 
